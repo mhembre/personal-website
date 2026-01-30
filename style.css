@@ -176,4 +176,8 @@ footer a:hover {
     h2 {
         font-size: 1.5rem;
     }
+
+    #my-work p {
+    margin-bottom: 0.5em;
+    }
 }
