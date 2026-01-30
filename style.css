@@ -140,6 +140,11 @@ footer a:hover {
     color: var(--primary-color);
 }
 
+#my-work p {
+    margin-bottom: 0.5em;
+}
+
+
 @media(max-width: 988px){
     header {
         text-align: center;
@@ -177,7 +182,4 @@ footer a:hover {
         font-size: 1.5rem;
     }
 
-    #my-work p {
-    margin-bottom: 0.2em;
-    }
 }
